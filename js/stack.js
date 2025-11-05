@@ -1,6 +1,10 @@
 /**
  * Stack
  *
+ * A stack is an ordered collection of items that follow (LIFO) Last In First Out principle.
+ * The addition and removal of items take place at same end i.e at the top.
+ * The newest elements are at the top and the oldest elements are at the bottom
+ *
  * push(): Adds a single or multiple items to the top of the Stack.
  * pop(): Removes and Returns the top item of the Stack.
  * peek(): Returns the top item of the Stack.

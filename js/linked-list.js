@@ -1,6 +1,10 @@
 /**
  * Linked List
  *
+ * Linked list stores the collection of data, but unlike arrays data are not stored in contagious memory,
+ * instead each element in the linked list consists of a node which stores the data and
+ * a reference(pointer or link) to the next element.
+ *
  * append(element): Adds a new element in the list.
  * toString(): Joins all the elements of the list and returns it as a string.
  * toArray(): Converts the linked list to the array and returns it.

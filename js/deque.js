@@ -59,6 +59,10 @@ class Deque {
   }
 
   removeFront() {
+    if (this.isEmpty()) {
+      return;
+    }
+
     this.#head = this.#head.next;
     this.#head.prev = null;
 
@@ -66,6 +70,10 @@ class Deque {
   }
 
   removeBack() {
+    if (this.isEmpty()) {
+      return;
+    }
+
     this.#tail = this.#tail.prev;
     this.#tail.next = null;
 

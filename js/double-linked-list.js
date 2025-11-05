@@ -1,6 +1,11 @@
 /**
  * Double Linked List
  *
+ * However, in the single linked list we can only move forward to the next element but cannot go back.
+ * But in the doubly linked list, we maintain two pointers
+ * 1. For the next element.
+ * 2. For the previous element.
+ *
  * append(element): Adds a new element in the list.
  * toString(): Joins all the elements of the list and returns it as a string.
  * toArray(): Converts the linked list to the array and returns it.

@@ -1,6 +1,9 @@
 /**
  * Queue
  *
+ * A queue is an ordered collection of items that follow FIFO (First In First Out) principle
+ * also known as 'First come first served'.
+ *
  * enqueue(): Adds an item at the tail of the queue.
  * dequeue(): Removes an item from the head of the queue.
  * front(): Retruns the first item in the queue.
