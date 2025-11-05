@@ -6,11 +6,12 @@
  * peek(): Returns the top item of the Stack.
  * clear(): Removes all the items of the Stack.
  * size(): Returns the length of the stack.
+ * isEmpty(): Returns true if stack is empty, false otherwise
  */
 
 class Stack {
-  #items = [];
-  #size = 0;
+  #items;
+  #size;
   constructor() {
     this.#items = [];
     this.#size = 0;
