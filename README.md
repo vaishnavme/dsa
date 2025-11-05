@@ -6,3 +6,4 @@
 - [Queue](js/queue.js)
 - [Stack using Linked List](js/stack-linked-list.js)
 - [Queue using Linked List](js/queue-linked-list.js)
+- [Double Linked List](js/double-linked-list.js)
