@@ -1,6 +1,4 @@
-## DSA Repo
-
-## Data Structures in JavaScript
+### Data Structures in JavaScript
 
 - [Node](js/node.js)
 - [Linked List](js/linked-list.js)
