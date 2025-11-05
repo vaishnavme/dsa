@@ -1,5 +1,5 @@
 /**
- * Queue Linked List
+ * Queue using Linked List
  *
  * enqueue(): Adds an item at the tail of the queue.
  * dequeue(): Removes an item from the head of the queue.

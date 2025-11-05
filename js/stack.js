@@ -1,5 +1,5 @@
 /**
- * Stack:
+ * Stack
  *
  * push(): Adds a single or multiple items to the top of the Stack.
  * pop(): Removes and Returns the top item of the Stack.

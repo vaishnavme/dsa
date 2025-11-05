@@ -1,5 +1,5 @@
 /**
- * Stack using linkedlist:
+ * Stack using Linked List
  *
  * Push: Adds the item in the stack at the top.
  * Pop: Removes the top item from the stack and returns it.

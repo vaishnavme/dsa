@@ -1,5 +1,5 @@
 /**
- * LinkedList
+ * Linked List
  *
  * append(element): Adds a new element in the list.
  * toString(): Joins all the elements of the list and returns it as a string.
