@@ -19,3 +19,13 @@ export class DNode {
     this.prev = null;
   }
 }
+
+export class PriorityNode {
+  data;
+  priority;
+
+  constructor(data, priority) {
+    this.data = data;
+    this.priority = priority;
+  }
+}
