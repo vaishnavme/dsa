@@ -16,15 +16,7 @@
  * insert(position, element): Adds an element at the given position in the list.
  */
 
-export class Node {
-  val;
-  next;
-
-  constructor(element) {
-    this.val = element;
-    this.next = null;
-  }
-}
+import { Node } from "./node.js";
 
 class LinkedList {
   #head;
